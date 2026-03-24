@@ -23,7 +23,6 @@
 - Verification needed: VS Code Insider window with Copilot chat/extension visible and enabled.
 - Screenshot: add image at `screenshots/vscode-insiders-copilot.png`
 
-![VS Code Insiders + Copilot Screenshot](screenshots/vscode-insiders-copilot.png)
 
 ### 4. Claude Desktop with 4 MCP Servers Connected
 - Required MCP servers:
@@ -31,8 +30,8 @@
 	- Bootcamp AI Agent
 	- Calendar Booking
 	- GitHub
+<img width="293" height="372" alt="image" src="https://github.com/user-attachments/assets/5f2a45d2-0742-4650-a80b-beb5a90b3cf4" />
 
-![Claude Desktop MCP Servers Screenshot](screenshots/claude-mcp-servers-connected.png)
 
 ## MCP Server Purpose and Functionality
 
