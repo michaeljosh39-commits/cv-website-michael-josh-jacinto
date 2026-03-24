@@ -9,10 +9,8 @@ Add screenshots showing each connected server:
 - Calendar Booking server connected: `screenshots/mcp-calendar-connected.png`
 - GitHub server connected: `screenshots/mcp-github-connected.png`
 
-![Rolldice Connected](screenshots/mcp-rolldice-connected.png)
-![Bootcamp Agent Connected](screenshots/mcp-bootcamp-agent-connected.png)
-![Calendar Booking Connected](screenshots/mcp-calendar-connected.png)
-![GitHub MCP Connected](screenshots/mcp-github-connected.png)
+<img width="293" height="372" alt="image" src="https://github.com/user-attachments/assets/afd83ba5-9bc6-4af7-a4f1-7a2a7f177c5c" />
+
 
 ## 2. GitHub MCP Usage Example
 
